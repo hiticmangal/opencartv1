@@ -1,0 +1,7 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 110.0.5481
+INFO     WDM:logger.py:11 Driver [/Users/mangal/.wdm/drivers/chromedriver/mac64/110.0.5481/chromedriver] found in cache
+INFO     root:test_001_AccountRegistration.py:20 ***** Test 001 Account Registration Started.. ****
+INFO     root:test_001_AccountRegistration.py:30 Proving customer details for registration
+INFO     root:test_001_AccountRegistration.py:43 Account registration is passed..
+INFO     root:test_001_AccountRegistration.py:51 **** test_001_AccountRegistration finished *** 
